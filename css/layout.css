@@ -330,6 +330,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
+.objectiveC {
+    width: 35%;
+    -moz-animation: jquery 2s ease;
+    -webkit-animation: jquery 2s ease;
+}
 .illustrator {
   	width: 75%;
   	-moz-animation: illustrator 2s ease;
